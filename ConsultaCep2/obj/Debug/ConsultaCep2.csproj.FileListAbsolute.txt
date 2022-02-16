@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\bin\Debug\ConsultaCep2.exe.config
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\bin\Debug\ConsultaCep2.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\bin\Debug\ConsultaCep2.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.Properties.Resources.resources
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCep2\obj\Debug\ConsultaCep2.frmConsultaCep.resources

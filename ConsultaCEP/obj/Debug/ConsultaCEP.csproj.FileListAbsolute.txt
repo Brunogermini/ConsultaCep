@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe.config
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\SolucaoConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb

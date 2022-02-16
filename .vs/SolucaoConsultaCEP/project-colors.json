@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e6d8133-517f-4a3f-a193-e0dee62d19b3": {
+      "ProjectGuid": "0e6d8133-517f-4a3f-a193-e0dee62d19b3",
+      "DisplayName": "ConsultaCEP",
+      "ColorIndex": 0
+    },
+    "7d9ab4e5-dda0-4163-a452-e369f31e6f99": {
+      "ProjectGuid": "7d9ab4e5-dda0-4163-a452-e369f31e6f99",
+      "DisplayName": "ConsultaCep2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
